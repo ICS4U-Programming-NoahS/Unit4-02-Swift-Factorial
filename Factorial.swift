@@ -64,7 +64,7 @@ do {
 
     // initialize index 
     var index = 0
-    
+
     // while it has not reached the end of the file
     while index < lines.count {
 
