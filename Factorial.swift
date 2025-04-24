@@ -8,7 +8,7 @@
 //
 // The Factorial program will read a set of whole numbers from 'input.txt'.
 // It will check if it is a valid whole number.
-//If it is not a valid whole number, it will write an error message.
+// If it is not a valid whole number, it will write an error message.
 // It will then calculate the factorial of each valid whole number.
 // Finally, it will write the factorials to 'output.txt'.
 
@@ -36,15 +36,15 @@ func factorial(_ number: Int) -> Int {
 }
 
 // Greeting and program description
-print("Welcome to the factorial program!");
-print("The Factorial program will read a set");
-print(" of whole numbers from 'input.txt'.");
-print("It will check if it is a valid whole number.");
-print("If it is not a valid whole number,");
-print(" it will write an error message.");
-print("It will then calculate the factorial");
-print(" of each valid whole number.");
-print("It will write the factorials to 'output.txt'.");
+print("Welcome to the factorial program!")
+print("The Factorial program will read a set")
+print(" of whole numbers from 'input.txt'.")
+print("It will check if it is a valid whole number.")
+print("If it is not a valid whole number,")
+print(" it will write an error message.")
+print("It will then calculate the factorial")
+print(" of each valid whole number.")
+print("It will write the factorials to 'output.txt'.")
 
 // initialize output string
 var outputStr = ""
